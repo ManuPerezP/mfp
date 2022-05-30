@@ -8,9 +8,9 @@
 * 4.- dashboard mfe
 
 ### stack
-### react
-### webpack
-### github 
-### aws
+* react
+* webpack
+* github 
+* aws
 
 ### access: https://d3sybsznblvh7o.cloudfront.net/
